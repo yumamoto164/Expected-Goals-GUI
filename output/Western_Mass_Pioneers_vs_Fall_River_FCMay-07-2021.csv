@@ -1,0 +1,20 @@
+,shot_id,Team,player_name,player_number,onTarget,isGoal,x,y,body_part_name,assist_type,shot_type_name,xG
+0,0,Western Mass Pioneers,Player 1,10,TRUE,TRUE,95.52,38.28,Foot,pass,open play,0.25897
+1,1,Fall River FC,Player 2,13,TRUE,FALSE,80.54,45.77,Foot,direct,free kick,0.02553
+2,2,Western Mass Pioneers,Player 1,10,TRUE,FALSE,94.02,46.2,Foot,pass,open play,0.08636
+3,3,Western Mass Pioneers,Player 1,10,TRUE,FALSE,85.67,26.51,Foot,direct,open play,0.07871
+4,4,Western Mass Pioneers,Player 1,10,TRUE,FALSE,101.3,40.85,Foot,direct,open play,0.35879
+5,5,Western Mass Pioneers,Player 1,10,TRUE,FALSE,99.37,33.36,Other,pass,dir set piece,0.25843
+6,6,Western Mass Pioneers,Player 1,10,TRUE,TRUE,103.65,28.86,Other,pass,corner,0.18037
+7,7,Western Mass Pioneers,Player 1,10,TRUE,FALSE,94.45,44.27,Foot,pass,open play,0.09531
+8,8,Western Mass Pioneers,Player 1,10,TRUE,FALSE,90.59,23.51,Foot,pass,open play,0.06802
+9,9,Fall River FC,Player 2,13,TRUE,FALSE,68.34,41.49,Foot,direct,open play,0.01906
+10,10,Fall River FC,Player 2,2,FALSE,FALSE,98,23.31,Foot,direct,open play,0.11827
+11,11,Fall River FC,Player 2,2,FALSE,FALSE,100.32,29.24,Foot,direct,open play,0.38521
+12,12,Western Mass Pioneers,Player 1,1,FALSE,FALSE,76.84,27.12,Foot,direct,open play,0.03077
+13,13,Western Mass Pioneers,Player 1,1,FALSE,FALSE,99.48,47.23,Foot,direct,open play,0.08925
+14,14,Fall River FC,Player 2,2,FALSE,FALSE,88.69,47.01,Foot,pass,open play,0.04086
+15,15,Fall River FC,Player 2,2,FALSE,FALSE,82.76,44.47,Foot,pass,open play,0.03515
+16,16,Western Mass Pioneers,Player 1,1,FALSE,FALSE,94.19,46.38,Foot,pass,open play,0.0627
+17,17,Western Mass Pioneers,Player 1,1,FALSE,FALSE,92.07,39.18,Foot,pass,open play,0.17914
+18,18,Western Mass Pioneers,Player 1,1,TRUE,FALSE,88.26,30.93,Foot,pass,open play,0.10844

@@ -1,0 +1,10 @@
+,shot_id,Team,player_name,player_number,onTarget,isGoal,x,y,body_part_name,assist_type,shot_type_name,xG
+0,0,a,sadf,sadf,True,False,83.07,38.08,Foot,direct,open play,0.05289
+1,1,a,sadf,sadf,True,True,83.62,28.81,Foot,direct,open play,0.05689
+2,2,a,sadf,sadf,True,True,91.77,37.52,Foot,direct,open play,0.21635
+3,3,a,sadf,sadf,False,False,88.07,41.97,Foot,direct,open play,0.09273
+4,4,b,adsf,adsf,True,False,80.1,49.56,Foot,direct,open play,0.01606
+5,5,b,adsf,adsf,True,False,79.18,31.96,Foot,direct,open play,0.03719
+6,6,b,adsf,adsf,True,False,81.95,23.44,Foot,direct,open play,0.03719
+7,7,b,adsf,adsf,True,False,91.4,21.22,Foot,direct,open play,0.06132
+8,8,b,adsf,adsf,False,False,74.91,40.3,Foot,direct,open play,0.02628

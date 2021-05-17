@@ -1,0 +1,4 @@
+,shot_id,Team,player_name,player_number,onTarget,isGoal,x,y,body_part_name,assist_type,shot_type_name,xG
+0,0,Sockers FC,Yuma Yamamoto,1,True,False,82.32,47.71,Foot,direct,open play,0.03605
+1,1,Sockers FC,Yuma Yamamoto,1,True,False,74.91,34.37,Foot,direct,open play,0.03077
+2,2,Sockers FC,Yuma Yamamoto,1,True,False,88.07,38.08,Foot,direct,open play,0.10122

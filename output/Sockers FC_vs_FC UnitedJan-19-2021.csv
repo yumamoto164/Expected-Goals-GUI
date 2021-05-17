@@ -1,0 +1,2 @@
+,shot_id,Team,onTarget,isGoal,x,y,body_part_name,assist_type,shot_type_name,xG
+0,1,Sockers FC,True,False,76.77,36.96,Foot,direct,open play,0.03719
